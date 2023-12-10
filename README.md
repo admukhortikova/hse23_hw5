@@ -1,6 +1,6 @@
 # hse23_hw5  
-**Основная часть**  
 https://colab.research.google.com/drive/1e8vnfmDZkYGrqzRpCRYXtFg0_co7r_7f?hl=ru#scrollTo=6bdORa8Wczhb  
+**Основная часть**  
 Описание ТРМ:  
 ![image](https://github.com/admukhortikova/hse23_hw5/assets/146677685/0779a606-02dd-4431-9037-606cc84ee376)  
 (в нашем случае длину транскрипта принимаем за 1)  
