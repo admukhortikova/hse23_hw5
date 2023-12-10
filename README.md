@@ -12,7 +12,7 @@ Heatmap:
 UMAP:  
 ![image](https://github.com/admukhortikova/hse23_hw5/assets/146677685/f7d5c165-fc96-4536-944a-16a6d0dc77ee)  
 На PCA можно выделить два кластера: mTEC-1 и mTEC-2,3,4, cTEC распределен равномерно. На UMAP все группы клеток кроме cTEC образуют свой кластер  
-**Бонусная часть**  
+
 
 
 
